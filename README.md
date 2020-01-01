@@ -2,7 +2,7 @@
 Self-Care Activity Dataset based on ICF-CY
 
 # Citation Request:
-Please include this citation if you plan to use this dataset 
+Please include this citation if you plan to use this dataset: 
 
 Bushehri, S. F., & Zarchi, M. S. (2019). An expert model for self-care problems classification using probabilistic neural network and feature selection approach. Applied Soft Computing, 82, 105545.
 
