@@ -1,5 +1,5 @@
 # SCADI
-Self-Care Activity Dataset based on ICF-CY
+Self-Care activity dataset based on ICF-CY
 
 # Citation Request:
 Please include this citation if you plan to use this dataset: 
